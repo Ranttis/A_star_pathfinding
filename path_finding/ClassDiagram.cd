@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Waypoint">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIBAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>pathfinding.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAgAAAAAAAAAAAAAgIAAAAAAAAAAYAA=</HashCode>
+      <FileName>pathfinding.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SearchNode">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAIAAAAAACABAAAgAOEAAAAA=</HashCode>
+      <FileName>pathfinding.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Typedef Name="Position" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>pathfinding.cpp</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,8 @@
+﻿  pathfinding.cpp
+c:\users\roope\desktop\pathfinding_vs\path_finding\pathfinding.cpp(361): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 321 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  path_finding.vcxproj -> C:\Users\Roope\Desktop\pathfinding_vs\path_finding\Release\path_finding.exe

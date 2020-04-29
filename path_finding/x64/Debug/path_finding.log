@@ -1,0 +1,13 @@
+﻿  pathfinding.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+  c:\users\rooperan\desktop\pathfinding_vs\glut\glut.h(34): note: see previous definition of 'CALLBACK'
+pathfinding.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+pathfinding.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+pathfinding.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+pathfinding.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+pathfinding.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+pathfinding.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl drawLevel(void)" (?drawLevel@@YAXXZ)
+pathfinding.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl drawLevel(void)" (?drawLevel@@YAXXZ)
+pathfinding.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+C:\Users\rooperan\Desktop\pathfinding_vs\glut\glut32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\rooperan\Desktop\pathfinding_vs\path_finding\x64\Debug\path_finding.exe : fatal error LNK1120: 8 unresolved externals
