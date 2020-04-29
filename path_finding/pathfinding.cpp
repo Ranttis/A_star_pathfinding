@@ -293,7 +293,7 @@ namespace
 		glOrtho(0, 512 + 4, 256 + 2, 0, -1, 1);
 
 		// Load input file
-		inputTexture = loadBMPTexture("input3.bmp", &width, &height, &inputData);
+		inputTexture = loadBMPTexture("input2.bmp", &width, &height, &inputData);
 		if (0 == inputTexture)
 		{
 			printf("Error! Cannot open file: \"input.bmp\"\n");

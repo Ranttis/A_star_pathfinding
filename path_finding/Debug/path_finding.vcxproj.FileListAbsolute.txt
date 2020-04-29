@@ -1,0 +1,2 @@
+D:\koulu\Koodit\pathfinding_vs\A_star_pathfinding\path_finding\Debug\path_finding.exe
+D:\koulu\Koodit\pathfinding_vs\A_star_pathfinding\path_finding\Debug\path_finding.pdb
